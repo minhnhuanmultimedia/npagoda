@@ -1,0 +1,87 @@
+Copyright (c) 2026 MinhNhuanMultimedia (MNM). All rights reserved.
+
+PROPRIETARY LICENSE - "Chùa online MNM" (npagoda)
+
+1. Ownership
+   This software, including its source code, game logic, design, text,
+   graphics, audio, video and other original content (the "Software"), is
+   the property of MinhNhuanMultimedia (MNM) ("the Owner"). No rights are granted
+   except those expressly stated in this license.
+
+2. Permitted use
+   You may access and play the Software through the official website
+   published by the Owner, for personal, non-commercial use.
+
+3. Restrictions
+   Without prior written permission from the Owner, you may not:
+   a. copy, reproduce, redistribute, sell, rent, sublicense or publish the
+      Software or any part of it;
+   b. modify the Software or create derivative works based on it;
+   c. host, mirror or re-publish the Software on any other website,
+      server or platform;
+   d. decompile, reverse engineer, deobfuscate or otherwise attempt to
+      extract the source code, except to the extent that applicable law
+      expressly permits despite this restriction;
+   e. remove or alter any copyright, license or attribution notice;
+   f. use the Owner's server, API or WebSocket endpoints in any way other
+      than through the official website, or interfere with their operation.
+
+4. Original content and third-party components
+   The 3D models in the Software were photographed and scanned by the Owner
+   and are the Owner's original work. The promotional trailer was screen-
+   recorded from the Software by the Owner and edited with AI-assisted
+   tools.
+
+   The background music was composed by Gemie, who is credited in the
+   Software, and is used with Gemie's permission. Copyright in the music remains with its
+   creator, and this license grants no right to copy or reuse it
+   separately from the Software.
+
+   The Software also includes third-party components that remain under their own
+   licenses, which are not affected by this license:
+
+   three.js (r160) - MIT License
+   Copyright (c) 2010-2023 three.js authors
+   Permission is hereby granted, free of charge, to any person obtaining a
+   copy of this software and associated documentation files (the
+   "Software"), to deal in the Software without restriction, including
+   without limitation the rights to use, copy, modify, merge, publish,
+   distribute, sublicense, and/or sell copies of the Software, and to
+   permit persons to whom the Software is furnished to do so, subject to
+   the following conditions: The above copyright notice and this permission
+   notice shall be included in all copies or substantial portions of the
+   Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. Termination
+   This license terminates automatically if you breach any of its terms.
+   The Owner may also revoke access to the Software at any time.
+
+6. Disclaimer of warranty and limitation of liability
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE OWNER SHALL NOT
+   BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF, OR INABILITY TO USE,
+   THE SOFTWARE.
+
+7. Credits
+   Background music: Gemie
+   3D models, trailer and development: MinhNhuanMultimedia (MNM)
+
+8. Contact
+   For permission requests, contact the Owner via GitHub: thaiminhnhuanpc
+
+--------------------------------------------------------------------------
+BẢN TÓM TẮT TIẾNG VIỆT (chỉ để tham khảo; nếu có khác biệt thì theo bản
+tiếng Anh ở trên)
+
+Bản quyền (c) 2026 MinhNhuanMultimedia (MNM). Bảo lưu mọi quyền.
+Bạn được chơi game qua trang web chính thức cho mục đích cá nhân, phi
+thương mại. Không được sao chép, chỉnh sửa, đăng lại lên nơi khác, bán,
+dịch ngược/giải mã mã nguồn, hay dùng máy chủ/WebSocket của tác giả ngoài
+trang chính thức, nếu chưa có sự đồng ý bằng văn bản của tác giả. Các mô hình 3D do chủ sở hữu tự chụp và scan; trailer do chủ sở hữu quay màn hình và dựng bằng AI; nhạc nền do bạn Gemie sáng tác (được ghi tên trong game), dùng với sự cho phép của bạn ấy. Thư viện
+three.js giữ nguyên giấy phép MIT riêng của nó.
