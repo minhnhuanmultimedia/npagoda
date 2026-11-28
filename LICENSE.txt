@@ -1,0 +1,29 @@
+Copyright (c) 2026 MinhNhuanMultimedia. All Rights Reserved.
+
+This software, including its source code, graphics, audio, icons, and all
+related assets (the "Game"), is proprietary and is the exclusive property of
+MinhNhuanMultimedia.
+
+PERMITTED: You may access and play the Game as made available by
+MinhNhuanMultimedia, for personal, non-commercial use only.
+
+PROHIBITED: Without prior written permission from MinhNhuanMultimedia, you may
+NOT copy, reproduce, modify, adapt, translate, merge, distribute, publish,
+sublicense, sell, rent, host, mirror, fork for redistribution, reverse
+engineer, or create derivative works from the Game or any part of it.
+
+No license or right is granted except as expressly stated above. All rights not
+expressly granted are reserved.
+
+THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL MINHNHUANMULTIMEDIA BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE GAME.
+
+---
+
+Bản quyền (c) 2026 MinhNhuanMultimedia. Bảo lưu mọi quyền.
+
+Game này chỉ được phép chơi cho mục đích cá nhân, phi thương mại. Nghiêm cấm
+sao chép, chỉnh sửa, phân phối, đăng lại, bán, hoặc tạo sản phẩm phái sinh từ
+game hoặc bất kỳ phần nào của game khi chưa có sự cho phép bằng văn bản của
+MinhNhuanMultimedia.
